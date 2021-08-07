@@ -1,6 +1,8 @@
 TelePrompter
 ===
 
+![Docker Image](https://img.shields.io/website?down_color=blue&down_message=caiodelgadonew%2Fteleprompter&label=Dockerhub&logo=docker&style=for-the-badge&up_color=blue&up_message=caiodelgadonew%2Fteleprompter&url=https%3A%2F%2Fhub.docker.com%2Fr%2Fcaiodelgadonew%2Fteleprompter)
+
 > Browser-based TelePrompter with Remote Control
 
 ![Screenshot](teleprompter/assets/img/social-card.png "Screenshot")
